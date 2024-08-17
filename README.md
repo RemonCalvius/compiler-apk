@@ -111,7 +111,7 @@ Script ini akan melakukan beberapa langkah otomatis:
 Setelah semua langkah selesai, Anda akan melihat pesan sukses seperti berikut:
 
 ```bash
-[SUCESS] sc/build/app-release.apk
+[SUCESS] nama project/build/app-release.apk
 ```
 
 ### 2.2. Preview APK yang Sudah Jadi
